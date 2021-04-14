@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Marcio Ferraz",
+      "nascimento": "1981-10-11",
+      "email": "marcio.ferraz@etec.sp.gov.br"
+    },
+    {
+      "nome": "Melissa Almeida Ferraz",
+      "nascimento": "2013-12-02",
+      "email": "melissa@itu.com",
+      "id": 2
+    },
+    {
+      "nome": "Cristiane Almeida Ferraz",
+      "nascimento": "1984-10-08",
+      "email": "cristiane.almeida130153@gmail.com",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso Angular",
+      "validade": "2021-12-31",
+      "preco": 200.5
+    },
+    {
+      "nome": "Curso PHP7",
+      "validade": "2021-12-31",
+      "preco": 100.5,
+      "id": 2
+    }
+  ]
+}
